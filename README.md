@@ -1,8 +1,6 @@
 # Brewin
 Brewin, a fusion of C++ and Python, incorporates a robust set of functionalities that harness the strengths of both languages.
 
-Brewin could be described as the lovechild of C++ and python, with a little EMACS lisp mixed in.
-
 Functionality: 
 - Support for one or more function definitions in addition to main()
 - Functions may have zero or more parameters
